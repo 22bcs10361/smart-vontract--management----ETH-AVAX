@@ -31,8 +31,7 @@ Follow the steps below to deploy the voting system  on a local Ethereum developm
 ### Smart Contract Deployment
 
 1. Clone the repository: https://github.com/22bcs10361/smart-vontract--management----ETH-AVAX.git
-2.  Navigate to the project directory:   `voting-system-project-module-2
-/VotingSystem`
+2.  Navigate to the project directory:   `VotingSystem`
 3. Install project dependencies by running: npm install
 
 4. Start the local Ethereum network (Hardhat's built-in node) by running: npx hardhat node
@@ -68,4 +67,4 @@ Follow the steps below to deploy the voting system  on a local Ethereum developm
 - Email: 22bcs80056@cuchd.in
 
 ## License
-This project is licensed under the [MIT License](https://github.com/saurya25122001/voting-system-project-module-2/blob/61778ba1a5cf5999e8139cd55f47cb15e7a1bc37/LICENSE).
+This project is licensed under the [MIT License](https://github.com/22bcs10361/smart-vontract--management----ETH-AVAX/blob/a5363d91443c3f1d81f684c6e428376eede219ff/LICENSE).
